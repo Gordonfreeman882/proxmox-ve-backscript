@@ -1,5 +1,6 @@
-proxmox-ve-backscript - !Pre-Alpha!
-  - Do not use for production! -
+proxmox-ve-backscript - OUTDATED - PLS DONT USE IT ANYMORE -
+- a new backup script will be made in the near future 
+
 
 Features:
 - downloads your backupfiles from the proxmox-ve server over to your system.
